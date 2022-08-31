@@ -1,0 +1,12 @@
+<odoo>
+
+    <report
+            id="report_carpenter_bill"
+            model="carpenter.bill"
+            string="Carpenter Bill"
+            report_type="qweb-pdf"
+            name="smc_carpenter.carpenter_bill_template"
+            file="smc_carpenter.carpenter_bill_template"
+           />
+
+</odoo>
